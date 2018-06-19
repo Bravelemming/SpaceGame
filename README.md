@@ -1,5 +1,5 @@
 # SpaceGame
-a terminal based game made for coding practice in C++.
+a terminal-based real-time game made for coding practice in C++.
 
 ## notes
 - option 1. You are a low paid intern on a bridge crew.
@@ -22,7 +22,8 @@ a terminal based game made for coding practice in C++.
 - weapons.
 - bridge.
 - communcations.
-- science!
+- science bay.
+- medical bay.
 
 
 ## problems:
@@ -58,6 +59,7 @@ a terminal based game made for coding practice in C++.
 - insanity bar (chance to start attacking random crew members)
 - location 
 - systems
+- war status by race.
 
 ### repair crew
 - number of people
