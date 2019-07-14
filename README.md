@@ -73,7 +73,7 @@ a terminal-based real-time game made for coding practice in C++.
 - rank
 - respect bar
 - cybernetic enhancements
-- psychic abilties
+- psychic abilities
 
 ## systems (power, sensors, shields, weapons)
 - integrity level (from one hundred)
